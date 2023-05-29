@@ -9,31 +9,31 @@ const ROUTES: Routes = [
       {
         component: LoginPage,
         path: 'login',
-        title: '__PROJECT - Connexion',
+        title: 'romain-cambonie - Connexion',
         data: { animation: 'LoginPage' }
       },
       {
         component: RegisterPage,
         path: 'register',
-        title: '__PROJECT - Créez votre compte',
+        title: 'romain-cambonie - Créez votre compte',
         data: { animation: 'RegisterPage' }
       },
       {
         component: ForgotPasswordPage,
         path: 'forgot-password',
-        title: '__PROJECT - Mot de passe oublié',
+        title: 'romain-cambonie - Mot de passe oublié',
         data: { animation: 'ForgotPasswordPage' }
       },
       {
         component: ResetPasswordPage,
         path: 'reset-password',
-        title: '__PROJECT - Réinitialisation du mot de passe',
+        title: 'romain-cambonie - Réinitialisation du mot de passe',
         data: { animation: 'ResetPasswordPage' }
       },
       {
         component: ActivatePage,
         path: 'activate',
-        title: '__PROJECT - Activation de votre compte',
+        title: 'romain-cambonie - Activation de votre compte',
         data: { animation: 'ActivatePage' }
       }
     ],

@@ -1,6 +1,6 @@
-# __PROJECT client
+# romain-cambonie client
 
-__ABOUT
+myself
 
 ## Table of Contents
 

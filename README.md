@@ -1,6 +1,7 @@
 # romain-cambonie client
 
-myself
+Client of [romain-cambonie.com](https://romain-cambonie.com) which contains for now :
+- my resume following the [jsonresume](https://jsonresume.org/) specification
 
 ## Table of Contents
 

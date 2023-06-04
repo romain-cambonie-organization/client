@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/romain-cambonie-organization/client/compare/v1.1.0...v1.2.0) (2023-06-04)
+
+
+### Features
+
+* initial cleanup keeping only home page ([25e4d45](https://github.com/romain-cambonie-organization/client/commit/25e4d4528207c2147f96bfa28ce2990d61615fe4))
+
 # [1.1.0](https://github.com/romain-cambonie-organization/client/compare/v1.0.0...v1.1.0) (2023-06-04)
 
 

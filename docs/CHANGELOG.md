@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/romain-cambonie-organization/client/compare/v1.0.0...v1.1.0) (2023-06-04)
+
+
+### Features
+
+* adding auto-merge-templates ([594fcd7](https://github.com/romain-cambonie-organization/client/commit/594fcd797d96bdbb0d4dd8e1d26ee40a904feef6))
+
 # 1.0.0 (2023-05-29)
 
 

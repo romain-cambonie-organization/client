@@ -1,13 +1,15 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { PublicFeatureModule } from '@features/public';
+import { ResumeFeatureModule } from '@features/resume';
 import { MainLayout } from '../layouts';
+import { RESUME_PROVIDERS } from '../providers/resume.providers';
 
 const ROUTES: Routes = [
   {
-    loadChildren: async (): Promise<typeof PublicFeatureModule> => (await import('@features/public')).PublicFeatureModule,
+    loadChildren: async (): Promise<typeof ResumeFeatureModule> => (await import('@features/resume')).ResumeFeatureModule,
     component: MainLayout,
-    path: ''
+    path: '',
+    providers: [...RESUME_PROVIDERS]
   },
   { path: '**', pathMatch: 'full', redirectTo: '/' }
 ];

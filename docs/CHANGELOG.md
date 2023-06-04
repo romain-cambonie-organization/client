@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/romain-cambonie-organization/client/compare/v1.2.0...v1.3.0) (2023-06-04)
+
+
+### Features
+
+* basic presentation ([#1](https://github.com/romain-cambonie-organization/client/issues/1)) ([31bc091](https://github.com/romain-cambonie-organization/client/commit/31bc0912dfbdd4065ef756bdcb184af4e1ece19f))
+
 # [1.2.0](https://github.com/romain-cambonie-organization/client/compare/v1.1.0...v1.2.0) (2023-06-04)
 
 
